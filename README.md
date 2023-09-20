@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravk-k&show_icons=true&locale=en" alt="gauravk-k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k&" alt="gauravk-k" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k&" alt="gauravk-k" /></p>
+<p><img align="center" src="https://github.com/gauravk-k/github-readme-streak-stats/?user=gauravk-k&" alt="gauravk-k" /></p>
+

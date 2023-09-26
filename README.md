@@ -23,8 +23,17 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravk-k&show_icons=true&locale=en" alt="gauravk-k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k&" alt="gauravk-k" /></p>
-<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k" alt="gauravk-k" /></p>--->
+<!---<p><img align="center" src="https://streak-stats.demolab.com/?user=gauravk-k&show_icons=true&locale=en" alt="gauravk-k" /></p>--->
+
+<img src="https://streak-stats.demolab.com/?user=gauravk-k&show_icons=true&locale=en"/>
+
+<!---![gauravk-k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk----><!---k&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)--->
+
+<!---![gauravk-k's Stats](https://github-readme-stats.vercel.app/api?username=gauravk-k&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)--->
+
+<!---![gauravk-k's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k&theme=highcontrast&hide_border=true)--->
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k&" alt="gauravk-k" /></p>-->
 
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk-k&" alt="gauravk-k" /></p>--->
 

@@ -16,7 +16,6 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
 
-- 📫 How to reach me **gauravkumarkashyap74354@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/gauravkrk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br/>

@@ -1,4 +1,4 @@
-![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
+<!--![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif) -->
 
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar Kashyap</h1>
